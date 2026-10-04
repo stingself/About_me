@@ -2,6 +2,7 @@
 ⚡ Fun fact<br>💻 I'm currently working on 42 projects<br>🔨 I'm currently learning C language<br>📬 You can find me here : <br>                       🚀 Abdelaliyassir149@gmail.com<br>                                                  or<br>                       🚀  Erebosbeats004@gmail.com
 
 
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelaliyassir149@gmail.com) 
 
